@@ -33,7 +33,7 @@ a {
 }
 
 .header {
-	backround-img: url("Vine Cite/img/header/bcg.jpg"), linear-gradient( to bottom, #282828, #28282800);
+	background-img: url("../img/header/bcg.jpg"), linear-gradient( to bottom, #282828, #28282800);
 	background-size: cover;
 	background-position: center 35%;
 	height: 100vh;
