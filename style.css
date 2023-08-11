@@ -33,7 +33,8 @@ a {
 }
 
 .header {
-	background-img:url("..img/header/bcg.jpg");
+	backround:  linear-gradient(to bottom, #282828, #28282800);
+	background-img: url("..img/header/bcg.jpg");
 	background-size: cover;
 	background-position: center 35%;
 	height: 100vh;
